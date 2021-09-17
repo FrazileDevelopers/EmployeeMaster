@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "551662212728",
+    "project_id": "employee-42865",
+    "storage_bucket": "employee-42865.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551662212728:android:f0d5c46a15e536feafbf8d",
+        "android_client_info": {
+          "package_name": "com.fz.empmaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551662212728-jg9mds06103t0g78vsmbjp93cj5gr5om.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDyhd9ghZMLEfpVRfnjimypMht1Jlcq4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551662212728-jg9mds06103t0g78vsmbjp93cj5gr5om.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
